@@ -1,3 +1,5 @@
+o xyz
 this is test.
+OK, continue with line 1 content of "o" plus "xyz".
 
 Updated this file in r2_branch.
